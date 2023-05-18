@@ -41,7 +41,9 @@ vagrant ssh
 ![изображение](https://github.com/Green-Ace/TimpLab10/assets/112771063/a1a82d5e-95ee-4650-ba68-20ca4334990d)
 
 
-![изображение](https://github.com/Green-Ace/TimpLab10/assets/112771063/ca34c011-b4bd-4551-b805-c35962b410be)
+
+
+
 
 
 
@@ -50,6 +52,10 @@ vagrant halt
 
 
 vagrant destroy
+
+
+![изображение](https://github.com/Green-Ace/TimpLab10/assets/112771063/d6878e64-df92-4ec2-af2d-8eaef3e1a7ec)
+
 
 
 
